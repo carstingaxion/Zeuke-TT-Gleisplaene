@@ -1,0 +1,17 @@
+XTrackCAD Teileliste
+
+Zeuke-TT-Gleispläne Nr. 1
+
+18.02.2025
+Anzahl | Beschreibung                
+-------+-----------------------------
+ ✔   6 | Zeuke 159/101 1/1 (4 "normale" 1/1, 2 Entkuppler)
+ ✔   7 | Zeuke 159/102 1/1 R286
+ ✔   7 | Zeuke 159/103 2/1
+ ✔   8 | Zeuke 159/104 2/1 R286
+ ✔  11 | Zeuke 159/105 1/2 (4 "normale" 1/2, 2 Trenngleise, 3 Unterbrecher., 2 Prellbock)
+ ✔   2 | Zeuke 159/106 Ausgleichgleis
+ ✔   2 | Zeuke 159/111 1/2 R286
+ ✔   2 | Zeuke 6813 WL
+ ✔   2 | Zeuke 6814 WR
+-------+------------------------------
